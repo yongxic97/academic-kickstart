@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yongxi Cao
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate of Robotics Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Southern University of Science and Technology (China,Shenzhen)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Artificial Intelligence
